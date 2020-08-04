@@ -1,4 +1,5 @@
 print("How many kilometers did you run today?")
+print("***************")
 kms = input()
 
 total = float(kms)/1.609344
